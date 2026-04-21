@@ -89,5 +89,79 @@
       "role": "customer",
       "active": true
     }
+  ],
+   "books": [
+    {
+      "id": 1,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "category": "Self-help",
+      "price": 15.99,
+      "rating": 4.8,
+      "published": "2018-10-16"
+    },
+    {
+      "id": 2,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "category": "Productivity",
+      "price": 13.50,
+      "rating": 4.7,
+      "published": "2016-01-05"
+    },
+    {
+      "id": 3,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "category": "Programming",
+      "price": 32.00,
+      "rating": 4.9,
+      "published": "2008-08-11"
+    },
+    {
+      "id": 4,
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt",
+      "category": "Programming",
+      "price": 30.25,
+      "rating": 4.9,
+      "published": "1999-10-30"
+    },
+    {
+      "id": 5,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "category": "Finance",
+      "price": 12.99,
+      "rating": 4.6,
+      "published": "1997-04-01"
+    },
+    {
+      "id": 6,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "category": "Fiction",
+      "price": 10.99,
+      "rating": 4.5,
+      "published": "1988-01-01"
+    },
+    {
+      "id": 7,
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "category": "Motivation",
+      "price": 11.50,
+      "rating": 4.4,
+      "published": "1937-01-01"
+    },
+    {
+      "id": 8,
+      "title": "You Don't Know JS",
+      "author": "Kyle Simpson",
+      "category": "Programming",
+      "price": 25.00,
+      "rating": 4.7,
+      "published": "2015-12-27"
+    }
   ]
 }
