@@ -1,0 +1,93 @@
+{
+  "products": [
+    {
+      "id": "101",
+      "name": "Microcontroller Development Board",
+      "category": "Electronics",
+      "price": 24.99,
+      "inStock": true,
+      "stockQuantity": 45,
+      "description": "High-performance board with integrated Wi-Fi and Bluetooth capabilities.",
+      "specs": {
+        "processor": "Dual-core 240MHz",
+        "ram": "520KB SRAM",
+        "io_pins": 22
+      },
+      "tags": ["iot", "hardware", "prototyping"]
+    },
+    {
+      "id": "102",
+      "name": "Organic Aroid Organic Aroid ",
+      "category": "Home & Garden",
+      "price": 18.50,
+      "inStock": true,
+      "stockQuantity": 12,
+      "description": "Premium chunky soil mix designed for maximum drainage and aeration.",
+      "specs": {
+        "volume": "5L",
+        "components": ["Pine Bark", "Perlite", "Coco Coir"],
+        "ph_level": 6.5
+      },
+      "tags": ["gardening", "indoor-plants", "organic"]
+    },
+    {
+      "id": "103",
+      "name": "Mechanical Gaming Keyboard",
+      "category": "Peripherals",
+      "price": 89.00,
+      "inStock": false,
+      "stockQuantity": 0,
+      "description": "Compact 65% layout with hot-swappable switches and RGB lighting.",
+      "specs": {
+        "switches": "Linear Red",
+        "connection": "USB-C",
+        "backlight": "RGB"
+      },
+      "tags": ["gaming", "pc-setup", "productivity"]
+    },
+    {
+      "id": "104",
+      "name": "Ultrasonic Distance Sensor",
+      "category": "Electronics",
+      "price": 5.75,
+      "inStock": true,
+      "stockQuantity": 150,
+      "description": "Precision sensor for distance measurement and obstacle detection projects.",
+      "specs": {
+        "range": "2cm - 400cm",
+        "voltage": "5V",
+        "frequency": "40kHz"
+      },
+      "tags": ["robotics", "arduino", "sensors"]
+    },
+    {
+      "id": "105",
+      "name": "Ceramic Self-Watering Pot",
+      "category": "Home & Garden",
+      "price": 32.00,
+      "inStock": true,
+      "stockQuantity": 8,
+      "description": "Minimalist matte finish pot with an integrated water reservoir.",
+      "specs": {
+        "material": "Ceramic",
+        "diameter": "6-inch",
+        "color": "Midnight Blue"
+      },
+      "tags": ["decor", "automation", "plants"]
+    }
+  ],
+  "users": [
+    {
+      "id": "u1",
+      "username": "dev_admin",
+      "role": "admin",
+      "active": true
+    },
+    {
+      "id": "u2",
+      "username": "guest_user",
+      "role": "customer",
+      "active": true
+    }
+  ]
+}
